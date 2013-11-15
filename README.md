@@ -1,4 +1,9 @@
 mimesi
 ======
 
-Mappa Interattiva dei Soggetti dell'Economia Solidale
+MIMESI:= Mappa Interattiva dei Soggetti dell'Economia Solidale
+----
+
+Solo un sogno nel cassetto... almeno per ora ;-)
+
+
